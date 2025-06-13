@@ -22,7 +22,7 @@ android {
     namespace = "com.tsng.hidemyapplist"
 
     defaultConfig {
-        applicationId = "com.miHoYo.Yuanshen"
+        applicationId = "com.zaoko.homo"
     }
     buildFeatures {
         buildConfig = true
